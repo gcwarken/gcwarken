@@ -6,7 +6,7 @@
 </div>
 
 <p>
-  Hello! I'm Gabriel Costa Warken! A passionate Systems Analysis and Development Student from Brazil.
+  Hello! I'm Gabriel Costa Warken, a passionate Systems Analysis and Development Student from Brazil.
 
   - 📚 Currently studying Systems Analysis and Development at Senac-RS Porto Alegre.
     - Formerly attended Computer Science at Rio Grande do Sul Federal University - UFRGS (5 semesters completed).
