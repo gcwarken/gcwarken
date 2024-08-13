@@ -1,10 +1,17 @@
-<div id="user-content-toc">
-    <ul align="center">
-      <summary><h1 style="display: inline-block">
-          <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello World</h1></summary>
-    </ul>
+<div align="center">
+    <h1>
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello World
+    </h1>
 </div>
 
+<div align="center">
+    
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-costa-warken-796932261/)
+[![image](https://img.shields.io/badge/r%C3%A9sum%C3%A9-4400cc?style=for-the-badge&logo=Opsgenie)](https://github.com/gcwarken/gcwarken/blob/main/Gabriel%20Costa%20Warken%20-%20resume.pdf)
+
+    
+</div>
+    
 <p>
   Hello! I'm Gabriel Costa Warken, a passionate Systems Analysis and Development Student from Brazil.
 
