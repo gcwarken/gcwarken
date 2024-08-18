@@ -6,7 +6,7 @@
 
 <div align="center">
     
-[![image](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-costa-warken-796932261/)
+[![image](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gcwarken/)
 [![image](https://img.shields.io/badge/r%C3%A9sum%C3%A9-4400cc?style=for-the-badge&logoColor=ffffff&logo=carrd)](https://github.com/gcwarken/gcwarken/blob/main/Gabriel%20Costa%20Warken%20-%20resume.pdf)
 
     
