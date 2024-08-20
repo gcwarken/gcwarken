@@ -39,7 +39,6 @@
 <h3>🛢
 	<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-f59620?style=for-the-badge&logo=mysql&logoColor=005C84" />
-	<img src="https://img.shields.io/badge/s/4%20hana-0FAAFF.svg?style=for-the-badge&logo=SAP&logoColor=white" />
 </h3>
 <h3>🖥️
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
