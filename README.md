@@ -17,7 +17,7 @@
 
   - 📚 Currently studying Systems Analysis and Development at Senac-RS University Center Porto Alegre.
     - Formerly attended Computer Science at Rio Grande do Sul Federal University - UFRGS (5 semesters completed).
-    - Completed Informatics Technical Course at Colégio Santa Catarina.
+    - Completed Informatics and Programing Technical Course at Colégio Santa Catarina.
   - 💼 Currently working as system developer at Vital Help - Porto Alegre
     - Formerly worked at SAP Labs Latin America taking part in the Rotation Program for two years.
 </p>
