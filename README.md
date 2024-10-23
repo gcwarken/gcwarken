@@ -18,7 +18,7 @@
   - 📚 Currently studying Systems Analysis and Development at Senac-RS University Center Porto Alegre.
     - Formerly attended Computer Science at Rio Grande do Sul Federal University - UFRGS (5 semesters completed).
     - Completed Informatics and Programming Technical Course at Colégio Santa Catarina.
-  - 💼 Currently working as Personal Sistems Software Research and Development Intern at HP Brazil.
+  - 💼 Currently working as Personal Systems Software Research and Development Intern at HP Brazil.
     - Formerly worked as system developer at Vital Help Benefícios - Porto Alegre for two years.
     - Formerly worked at SAP Labs Latin America taking part in the Rotation Program (early talent program) for two years.
 </p>
